@@ -1,24 +1,20 @@
-# # _Webpage Day 1_
+# _Webpage Day 1_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Portfolio Landing Page Project for Epicodus, 10.13.2020_
 
-#### By _**Diego Salazar**_
+#### _By Diego Salazar_
 
 ## Description
-_The point of this exercise was to practice using HTML elements and practice proper indentation. _
+_{This project was intended to be practice for HTML indentation and learning new HTML elements.}_
 
-## Setup/Installation Requirements
-
-* Clone the code from the repository.
-* Open up the code in visual studios code or a like device.
-* Run the application
+## Setup
+* _Clone the code from the repository.
+* _Open up the code in visual studios code. 
+* _View_
 
 ## Technologies Used
+* _HTML_
 
-* HTML
-
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-
-Copyright (c) 2020 **_{Diego Salazar}_**
+## Legal
+* Copyright (c) 2020 **_Diego Salazar_**
+* This software is licensed under the MIT license.
