@@ -1,6 +1,6 @@
 # _Webpage Day 1_
 
-#### _Portfolio Landing Page Project for Epicodus, 10.13.2020_
+#### _Portfolio Landing Page Project for Epicodus, 10.12.2020_
 
 #### _By Diego Salazar_
 
